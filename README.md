@@ -1,78 +1,91 @@
-## 👋 Hello, I'm @TheItalianDataGuy
+## 👋 Hi, I’m Andrea
 
-Welcome to my GitHub profile! I'm a passionate data and AI enthusiast making a career transition from education to tech, with a focus on MLOps, Data Engineering, and Machine Learning. I bring both strong communication skills and hands-on technical ability.
+Junior Data Analyst with strong **analytics engineering and applied ML** foundations.  
+Currently completing an **MSc in Data Science** and building **end-to-end, production-style data and ML pipelines** using Python and SQL.
 
----
-
-## 👀 Interests & Focus Areas
-
-- **MLOps & Automation:** Building and deploying robust, production-grade ML pipelines (CI/CD, orchestration, monitoring, automation).
-- **Data Engineering:** Designing scalable data pipelines, ETL processes, and infrastructure.
-- **Machine Learning:** Experimenting with algorithms and real-world applications.
+My background is in education (18 years), where I worked extensively with structured data, measurement, and stakeholder communication — skills I now apply to analytics and data engineering projects.
 
 ---
 
-## 🌱 Currently Learning & Doing
+## 🔧 Core Focus Areas
 
-- **MLOps Best Practices:** ML workflow automation, testing, CI/CD, model deployment.
-- **Cloud & DevOps:** Tools like AWS, GCP, Docker, and Airflow (in progress).
-- **Portfolio Projects:**  
-  - [TDF Data Bridge](https://github.com/TheItalianDataGuy/tdf-data-bridge): Real-time data integration, BLE/ANT+, and robust CI/CD.
-  - [Magic: The Gathering Card Price Predictor](https://github.com/TheItalianDataGuy/mtg-price-predictor) in progress
+- **Data & Analytics Engineering**  
+  ETL pipelines, analytics-ready datasets, orchestration, reproducibility
 
----
+- **Applied Machine Learning**  
+  Classification and time-series forecasting with a focus on real-world usage
 
-## 💼 Professional Background
-
-- **Transitioning from Education to Tech:**  
-  I’m leveraging my communication, analytical, and teamwork skills from education while completing the MSc in Data Science.
-- **Hands-On Experience:**  
-  - End-to-end ML projects, automation, and real data engineering challenges.
-  - Strong foundation in Python, version control, testing, and cloud tools.
+- **MLOps Foundations**  
+  Experiment tracking, versioning, CI/CD, model monitoring
 
 ---
 
-## 💡 Looking For
+## 🚀 Featured Projects
 
-- **Career Opportunities:** Entry-level roles in Data Engineering, MLOps, or ML Engineering.
-- **Collaboration & Open Source:** Always happy to connect, contribute, and learn on challenging data and ML projects.
+### 🟢 **TDF Data Bridge — ETL & Analytics Pipeline**
+End-to-end data pipeline for indoor cycling performance data  
+- Python & SQL analytics workflows  
+- Airflow orchestration (scheduled runs)  
+- Analytics-ready tables for KPI dashboards  
 
----
-
-## 💪 Skills & Toolset
-
-- **Programming:** Python, SQL
-- **ML & Data Tools:** Pandas, NumPy, Scikit-learn, TensorFlow (in progress), Keras (in progress)
-- **Automation/DevOps:** GitHub Actions, Docker (basics), Airflow (learning)
-- **Visualization:** Matplotlib, Seaborn, Plotly
-- **Databases:** MySQL, PostgreSQL
-- **Cloud:** AWS, GCP (learning)
+➡️ *See repository for architecture and implementation details*
 
 ---
 
-## 🚀 What Drives Me
+### 🟢 **Magic: The Gathering Price Predictor (In Progress)**
+Time-series forecasting system for secondary-market card prices  
+- ARIMA baseline models  
+- MLflow experiment tracking & DVC versioning  
+- FastAPI inference service (batch & API)  
 
-I thrive on using data and automation to solve real-world problems. Whether it’s integrating hardware and APIs, automating workflows, or deploying ML models, I’m committed to learning, building, and collaborating to create value.
-
----
-
-## 🎯 Career Goals
-
-**Open to opportunities** in:
-- **MLOps**: Automation, pipeline building, and deployment
-- **Data Engineering**: Infrastructure and ETL
-- **Machine Learning Engineering**
+➡️ *Designed as an iterative, production-style analytics project*
 
 ---
 
-**Let’s connect!**  
-If you’re looking for a motivated, adaptable, and hands-on problem-solver—reach out via [LinkedIn](your-link) or GitHub.
+### 🟢 **Exoplanet Classification & Model Monitoring**
+Tabular ML classification with monitoring  
+- Reproducible training pipelines  
+- Dockerised workflows  
+- Grafana dashboards for prediction volume and drift  
 
-  - Data Engineering: To build and maintain scalable data systems.
-  - Machine Learning: Applying models to real-world scenarios, especially in AI-driven applications.
+---
 
-## 😄 Pronouns
-He/Him
+## 🛠️ Technical Stack
 
-## ⚡ Fun Fact
-In addition to my love for tech, I'm passionate about climbing and cycling!
+**Languages**  
+- Python, SQL
+
+**Data & ML**  
+- Pandas, NumPy, scikit-learn  
+- Applied ML (classification, time series)
+
+**Pipelines & MLOps**  
+- Airflow, MLflow, DVC  
+- Docker, GitHub Actions  
+- FastAPI  
+- Grafana (monitoring)
+
+**Databases**  
+- PostgreSQL, MySQL
+
+---
+
+## 🎯 What I’m Looking For
+
+- **Junior Data Analyst**
+- **Junior / Associate Analytics Engineer**
+- Entry-level **Data Engineering or ML-adjacent** roles
+
+I’m particularly interested in teams where data is used to support **operational and business decisions**, and where clear communication between technical and non-technical stakeholders matters.
+
+---
+
+## 🔗 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/andrea-marella  
+- 📂 CV available on request
+
+---
+
+*Outside of tech, I enjoy cycling and climbing.*
+
